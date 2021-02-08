@@ -24,7 +24,7 @@
 ## Install
 
 ```sh
-npm i @mohamed-abdelrhman/stubber
+npm i @mohamed-abdelrhman/stubber -g
 ```
 
 ## Usage
