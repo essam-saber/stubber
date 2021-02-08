@@ -40,7 +40,7 @@ create a new repository:
 ```sh
 stubber -g module-name -r repository-name
 ```
-create a new repository:
+create a new resolver:
 ```sh
 stubber -g module-name -z resolver-name
 ```
